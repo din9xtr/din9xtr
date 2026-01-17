@@ -24,7 +24,6 @@
 
 ### 🚀 Projects
 
-**Main:**
 - Some production commercial Laravel projects
 - **[Personal Cloud](https://cloud.din9xtr.tech)** — Self-hosted 
   _Cloud control panel:_ [`cloud_control_panel`](https://github.com/din9xtr/cloud_control_panel)
