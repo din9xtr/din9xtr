@@ -4,7 +4,7 @@
 
 </div>
 
-### 🛠️ Techn stack
+### 🛠️ Tech stack
 
 **Backend:**
 - PHP 8.x
