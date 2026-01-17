@@ -1,4 +1,10 @@
-### 🛠️ Technology stack
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=24&duration=2000&pause=2000&color=7B68EE&center=true&vCenter=true&width=400&height=50&lines=Fullstack+%7C+din9xtr)](https://git.io/typing-svg)
+
+</div>
+
+### 🛠️ Techn stack
 
 **Backend:**
 - PHP 8.x
@@ -17,7 +23,6 @@
 - Linux
 
 ### 🌱 Currently delving into
-
 - PHP\Laravel performance optimization
 - CI/CD pipelines
 - React (A little)
@@ -39,6 +44,10 @@
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Caddy](https://img.shields.io/badge/Caddy-1D85D0?style=for-the-badge&logo=caddy&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
